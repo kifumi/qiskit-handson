@@ -7,7 +7,7 @@
 ![alt text](images/image-2.png)
 
 ## 2. qBraidの場合
-(1) qBraid Labにログイン
+(1) [qBraid](https://www.qbraid.com/)にログイン
 ![alt text](images/image-3.png)
 (2) [手順](ibm.biz/qbraidja)に従って環境作成
 
