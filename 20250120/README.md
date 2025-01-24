@@ -7,11 +7,12 @@
 ![alt text](images/image-2.png)
 
 ## 2. qBraidの場合
-(1) [qBraid](https://www.qbraid.com/)にログイン
+(1) [qBraid](https://www.qbraid.com/)にログイン。
 ![alt text](images/image-3.png)
-(2) [手順](https://quantum-tokyo.github.io/introduction/get_started/qbraid.html)に従って環境作成
 
-(3) 左上の上矢印マークからファイルをアップロード 
+(2) [手順](https://quantum-tokyo.github.io/introduction/get_started/qbraid.html)に従って環境作成。最新のQiskit環境は「QDC 2024」です。
+
+(3) 左上の上矢印マークからファイルをアップロード。
 ![alt text](images/image-4.png)
 
 ## 3. Qiskitをインストールする場合
